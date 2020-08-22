@@ -1,0 +1,30 @@
+[
+  {
+    "": "toronto",
+    "toronto": 0,
+    "new york": 100,
+    "boston": 200,
+    "miami": 300
+  },
+  {
+    "": "new york",
+    "toronto": 100,
+    "new york": 0,
+    "boston": 50,
+    "miami": 250
+  },
+  {
+    "": "boston",
+    "toronto": 200,
+    "new york": 50,
+    "boston": 0,
+    "miami": 200
+  },
+  {
+    "": "miami",
+    "toronto": 300,
+    "new york": 250,
+    "boston": 200,
+    "miami": 0
+  }
+]
