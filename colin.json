@@ -1,0 +1,20 @@
+[
+  {
+    "name": "bob",
+    "age": 11,
+    "species": "human",
+    "food": "pizza"
+  },
+  {
+    "name": "sam",
+    "age": 12,
+    "species": "cat",
+    "food": "pasta"
+  },
+  {
+    "name": "sue",
+    "age": 15,
+    "species": "human",
+    "food": "salad"
+  }
+]
