@@ -1,0 +1,22 @@
+[
+  {
+    "name": "sid",
+    "wand": "birch",
+    "food": "pizza"
+  },
+  {
+    "name": "ayla",
+    "wand": "oak",
+    "food": "salad"
+  },
+  {
+    "name": "harry potter",
+    "wand": "cherry",
+    "food": "taco"
+  },
+  {
+    "name": "ginny",
+    "wand": "ash",
+    "food": "butter beer"
+  }
+]
