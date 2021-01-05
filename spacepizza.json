@@ -1,0 +1,23 @@
+[
+  {
+    "name": "bob",
+    "power": 100,
+    "health": 100,
+    "likes carrots": "yes",
+    "likes pizza": "no"
+  },
+  {
+    "name": "mike",
+    "power": 80,
+    "health": 100,
+    "likes carrots": "yes",
+    "likes pizza": "no"
+  },
+  {
+    "name": "sue",
+    "power": 200,
+    "health": 100,
+    "likes carrots": "no",
+    "likes pizza": "yes"
+  }
+]
