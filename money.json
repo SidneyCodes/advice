@@ -1,0 +1,17 @@
+[
+  {
+    "cur1": "USD",
+    "cur2": "CAD",
+    "rate": 0.75
+  },
+  {
+    "cur1": "USD",
+    "cur2": "INR",
+    "rate": 73
+  },
+  {
+    "cur1": "USD",
+    "cur2": "GBP",
+    "rate": 0.73
+  }
+]
